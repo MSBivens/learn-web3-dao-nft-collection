@@ -1,5 +1,5 @@
 // Address of the Whitelist Contract that you deployed
-const WHITELIST_CONTRACT_ADDRESS = "0x0f7B9965Cbe9dde6d9FDE9a8E79dE6C2D54CA112";
+const WHITELIST_CONTRACT_ADDRESS = "0xD7a3e68CAF87cC6d56CD7438b3Fbca709Fb5aB46";
 // URL for the Crypto Devs NFT Metadata
 const METADATA_URL =
   "https://vercel.com/msbivens/learn-web3-dao-nft-collection/D64Htj74HFmxuJwGDsxYCbcXQMQY/api/";
